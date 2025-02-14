@@ -1,0 +1,15 @@
+<!doctype html>
+<html lang="PT-BR">
+     </html>
+     <title></title>
+     <link rel="stylesheet" type="text/css" href="style.css">
+     <meta charset="utf-8">
+     <script src="jquery"></script></script>
+     </script>
+
+     </script>
+   </head>
+   <body>
+    <fieldset>
+       <legend>CALCULADORA</legend>
+       <input type="number" id="">
